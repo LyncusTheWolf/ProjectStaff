@@ -1,0 +1,2193 @@
+fileFormatVersion: 2
+guid: 2d7edd2d6660f904cafeea197bca7e29
+timeCreated: 1520850683
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Blaze
+    100002: Blaze The Tiger
+    100004: //RootNode
+    100006: Chest
+    100008: Ear_L
+    100010: Ear_R
+    100012: Eye_L
+    100014: Eye_R
+    100016: Foot_L
+    100018: Foot_R
+    100020: Hand_L
+    100022: Hand_R
+    100024: Hand_Weapon_Socket_R
+    100026: Head
+    100028: Hips
+    100030: Index_Distal_L
+    100032: Index_Distal_R
+    100034: Index_Intermediate_L
+    100036: index_Intermediate_R
+    100038: Index_Proximal_L
+    100040: Index_Proximal_R
+    100042: Jaw
+    100044: Lower_Arm_L
+    100046: Lower_Arm_R
+    100048: Lower_Leg_L
+    100050: Lower_Leg_R
+    100052: Middle_Distal_L
+    100054: Middle_Distal_R
+    100056: Middle_Intermediate_L
+    100058: Middle_Intermediate_R
+    100060: Middle_Proximal_L
+    100062: Middle_Proximal_R
+    100064: Neck
+    100066: Pinky_Distal_L
+    100068: Pinky_Distal_R
+    100070: Pinky_Intermediate_L
+    100072: Pinky_Intermediate_R
+    100074: Pinky_Proximal_L
+    100076: Pinky_Proximal_R
+    100078: Ring_Distal_L
+    100080: Ring_Distal_R
+    100082: Ring_Intermediate_L
+    100084: Ring_Intermediate_R
+    100086: Ring_Proximal_L
+    100088: Ring_Proximal_R
+    100090: Root
+    100092: Shoulder_L
+    100094: Shoulder_R
+    100096: Spine
+    100098: Tail
+    100100: Tail.001
+    100102: Tail.002
+    100104: Tail.003
+    100106: Tail.004
+    100108: Tail.005
+    100110: Thumb_Distal_L
+    100112: Thumb_Distal_R
+    100114: Thumb_Intermediate_L
+    100116: Thumb_Intermediate_R
+    100118: Thumb_Proximal_L
+    100120: Thumb_Proximal_R
+    100122: Toe_L
+    100124: Toe_R
+    100126: Upper_Arm_L
+    100128: Upper_Arm_R
+    100130: Upper_Chest
+    100132: Upper_Leg_L
+    100134: Upper_Leg_R
+    400000: Blaze
+    400002: Blaze The Tiger
+    400004: //RootNode
+    400006: Chest
+    400008: Ear_L
+    400010: Ear_R
+    400012: Eye_L
+    400014: Eye_R
+    400016: Foot_L
+    400018: Foot_R
+    400020: Hand_L
+    400022: Hand_R
+    400024: Hand_Weapon_Socket_R
+    400026: Head
+    400028: Hips
+    400030: Index_Distal_L
+    400032: Index_Distal_R
+    400034: Index_Intermediate_L
+    400036: index_Intermediate_R
+    400038: Index_Proximal_L
+    400040: Index_Proximal_R
+    400042: Jaw
+    400044: Lower_Arm_L
+    400046: Lower_Arm_R
+    400048: Lower_Leg_L
+    400050: Lower_Leg_R
+    400052: Middle_Distal_L
+    400054: Middle_Distal_R
+    400056: Middle_Intermediate_L
+    400058: Middle_Intermediate_R
+    400060: Middle_Proximal_L
+    400062: Middle_Proximal_R
+    400064: Neck
+    400066: Pinky_Distal_L
+    400068: Pinky_Distal_R
+    400070: Pinky_Intermediate_L
+    400072: Pinky_Intermediate_R
+    400074: Pinky_Proximal_L
+    400076: Pinky_Proximal_R
+    400078: Ring_Distal_L
+    400080: Ring_Distal_R
+    400082: Ring_Intermediate_L
+    400084: Ring_Intermediate_R
+    400086: Ring_Proximal_L
+    400088: Ring_Proximal_R
+    400090: Root
+    400092: Shoulder_L
+    400094: Shoulder_R
+    400096: Spine
+    400098: Tail
+    400100: Tail.001
+    400102: Tail.002
+    400104: Tail.003
+    400106: Tail.004
+    400108: Tail.005
+    400110: Thumb_Distal_L
+    400112: Thumb_Distal_R
+    400114: Thumb_Intermediate_L
+    400116: Thumb_Intermediate_R
+    400118: Thumb_Proximal_L
+    400120: Thumb_Proximal_R
+    400122: Toe_L
+    400124: Toe_R
+    400126: Upper_Arm_L
+    400128: Upper_Arm_R
+    400130: Upper_Chest
+    400132: Upper_Leg_L
+    400134: Upper_Leg_R
+    2100000: Blaze_Fur
+    2100002: Blaze_Non_Fur
+    4300000: Blaze
+    7400000: T-Pose
+    7400002: Idle
+    7400004: Run
+    7400006: Sprint
+    7400008: Walk
+    7400010: Idle Falling Down
+    7400012: Idle Falling Up
+    7400014: Sliding 45
+    9500000: //RootNode
+    13700000: Blaze
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: Blaze The Tiger/Root
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: T-Pose
+      takeName: T-Pose
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Idle
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Blaze
+        weight: 0
+      - path: Blaze The Tiger
+        weight: 1
+      - path: Blaze The Tiger/Root
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck/Head
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck/Head/Ear_L
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck/Head/Ear_R
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck/Head/Eye_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck/Head/Eye_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck/Head/Jaw
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L/Index_Intermediate_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L/Index_Intermediate_L/Index_Distal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L/Middle_Intermediate_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L/Middle_Intermediate_L/Middle_Distal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Pinky_Proximal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Pinky_Proximal_L/Pinky_Intermediate_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Pinky_Proximal_L/Pinky_Intermediate_L/Pinky_Distal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Ring_Proximal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Ring_Proximal_L/Ring_Intermediate_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Ring_Proximal_L/Ring_Intermediate_L/Ring_Distal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L/Thumb_Distal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Hand_Weapon_Socket_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R/index_Intermediate_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R/index_Intermediate_R/Index_Distal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R/Middle_Intermediate_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R/Middle_Intermediate_R/Middle_Distal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Pinky_Proximal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Pinky_Proximal_R/Pinky_Intermediate_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Pinky_Proximal_R/Pinky_Intermediate_R/Pinky_Distal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Ring_Proximal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Ring_Proximal_R/Ring_Intermediate_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Ring_Proximal_R/Ring_Intermediate_R/Ring_Distal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R/Thumb_Distal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Tail
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Tail/Tail.005
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Tail/Tail.005/Tail.004
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Tail/Tail.005/Tail.004/Tail.003
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Tail/Tail.005/Tail.004/Tail.003/Tail.002
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Tail/Tail.005/Tail.004/Tail.003/Tail.002/Tail.001
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L/Toe_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R/Toe_R
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: e5e34ae3fe67e8d46a68962c2c68c2a6, type: 2}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run
+      takeName: Run
+      firstFrame: 0
+      lastFrame: 48
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Blaze
+        weight: 0
+      - path: Blaze The Tiger
+        weight: 1
+      - path: Blaze The Tiger/Root
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck/Head
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck/Head/Ear_L
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck/Head/Ear_R
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck/Head/Eye_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck/Head/Eye_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck/Head/Jaw
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L/Index_Intermediate_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L/Index_Intermediate_L/Index_Distal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L/Middle_Intermediate_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L/Middle_Intermediate_L/Middle_Distal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Pinky_Proximal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Pinky_Proximal_L/Pinky_Intermediate_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Pinky_Proximal_L/Pinky_Intermediate_L/Pinky_Distal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Ring_Proximal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Ring_Proximal_L/Ring_Intermediate_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Ring_Proximal_L/Ring_Intermediate_L/Ring_Distal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L/Thumb_Distal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Hand_Weapon_Socket_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R/index_Intermediate_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R/index_Intermediate_R/Index_Distal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R/Middle_Intermediate_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R/Middle_Intermediate_R/Middle_Distal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Pinky_Proximal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Pinky_Proximal_R/Pinky_Intermediate_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Pinky_Proximal_R/Pinky_Intermediate_R/Pinky_Distal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Ring_Proximal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Ring_Proximal_R/Ring_Intermediate_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Ring_Proximal_R/Ring_Intermediate_R/Ring_Distal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R/Thumb_Distal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Tail
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Tail/Tail.005
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Tail/Tail.005/Tail.004
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Tail/Tail.005/Tail.004/Tail.003
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Tail/Tail.005/Tail.004/Tail.003/Tail.002
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Tail/Tail.005/Tail.004/Tail.003/Tail.002/Tail.001
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L/Toe_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R/Toe_R
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: e5e34ae3fe67e8d46a68962c2c68c2a6, type: 2}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sprint
+      takeName: Sprint
+      firstFrame: 0
+      lastFrame: 36
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Blaze
+        weight: 0
+      - path: Blaze The Tiger
+        weight: 1
+      - path: Blaze The Tiger/Root
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck/Head
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck/Head/Ear_L
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck/Head/Ear_R
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck/Head/Eye_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck/Head/Eye_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck/Head/Jaw
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L/Index_Intermediate_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L/Index_Intermediate_L/Index_Distal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L/Middle_Intermediate_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L/Middle_Intermediate_L/Middle_Distal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Pinky_Proximal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Pinky_Proximal_L/Pinky_Intermediate_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Pinky_Proximal_L/Pinky_Intermediate_L/Pinky_Distal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Ring_Proximal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Ring_Proximal_L/Ring_Intermediate_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Ring_Proximal_L/Ring_Intermediate_L/Ring_Distal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L/Thumb_Distal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Hand_Weapon_Socket_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R/index_Intermediate_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R/index_Intermediate_R/Index_Distal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R/Middle_Intermediate_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R/Middle_Intermediate_R/Middle_Distal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Pinky_Proximal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Pinky_Proximal_R/Pinky_Intermediate_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Pinky_Proximal_R/Pinky_Intermediate_R/Pinky_Distal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Ring_Proximal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Ring_Proximal_R/Ring_Intermediate_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Ring_Proximal_R/Ring_Intermediate_R/Ring_Distal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R/Thumb_Distal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Tail
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Tail/Tail.005
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Tail/Tail.005/Tail.004
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Tail/Tail.005/Tail.004/Tail.003
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Tail/Tail.005/Tail.004/Tail.003/Tail.002
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Tail/Tail.005/Tail.004/Tail.003/Tail.002/Tail.001
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L/Toe_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R/Toe_R
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: e5e34ae3fe67e8d46a68962c2c68c2a6, type: 2}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk
+      takeName: Walk
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Blaze
+        weight: 0
+      - path: Blaze The Tiger
+        weight: 1
+      - path: Blaze The Tiger/Root
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck/Head
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck/Head/Ear_L
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck/Head/Ear_R
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck/Head/Eye_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck/Head/Eye_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck/Head/Jaw
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L/Index_Intermediate_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L/Index_Intermediate_L/Index_Distal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L/Middle_Intermediate_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L/Middle_Intermediate_L/Middle_Distal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Pinky_Proximal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Pinky_Proximal_L/Pinky_Intermediate_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Pinky_Proximal_L/Pinky_Intermediate_L/Pinky_Distal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Ring_Proximal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Ring_Proximal_L/Ring_Intermediate_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Ring_Proximal_L/Ring_Intermediate_L/Ring_Distal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L/Thumb_Distal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Hand_Weapon_Socket_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R/index_Intermediate_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R/index_Intermediate_R/Index_Distal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R/Middle_Intermediate_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R/Middle_Intermediate_R/Middle_Distal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Pinky_Proximal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Pinky_Proximal_R/Pinky_Intermediate_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Pinky_Proximal_R/Pinky_Intermediate_R/Pinky_Distal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Ring_Proximal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Ring_Proximal_R/Ring_Intermediate_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Ring_Proximal_R/Ring_Intermediate_R/Ring_Distal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R/Thumb_Distal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Tail
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Tail/Tail.005
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Tail/Tail.005/Tail.004
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Tail/Tail.005/Tail.004/Tail.003
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Tail/Tail.005/Tail.004/Tail.003/Tail.002
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Tail/Tail.005/Tail.004/Tail.003/Tail.002/Tail.001
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L/Toe_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R/Toe_R
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: e5e34ae3fe67e8d46a68962c2c68c2a6, type: 2}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle Falling Down
+      takeName: Idle Falling Down
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Blaze
+        weight: 0
+      - path: Blaze The Tiger
+        weight: 1
+      - path: Blaze The Tiger/Root
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck/Head
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck/Head/Ear_L
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck/Head/Ear_R
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck/Head/Eye_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck/Head/Eye_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck/Head/Jaw
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L/Index_Intermediate_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L/Index_Intermediate_L/Index_Distal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L/Middle_Intermediate_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L/Middle_Intermediate_L/Middle_Distal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Pinky_Proximal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Pinky_Proximal_L/Pinky_Intermediate_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Pinky_Proximal_L/Pinky_Intermediate_L/Pinky_Distal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Ring_Proximal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Ring_Proximal_L/Ring_Intermediate_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Ring_Proximal_L/Ring_Intermediate_L/Ring_Distal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L/Thumb_Distal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Hand_Weapon_Socket_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R/index_Intermediate_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R/index_Intermediate_R/Index_Distal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R/Middle_Intermediate_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R/Middle_Intermediate_R/Middle_Distal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Pinky_Proximal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Pinky_Proximal_R/Pinky_Intermediate_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Pinky_Proximal_R/Pinky_Intermediate_R/Pinky_Distal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Ring_Proximal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Ring_Proximal_R/Ring_Intermediate_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Ring_Proximal_R/Ring_Intermediate_R/Ring_Distal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R/Thumb_Distal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Tail
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Tail/Tail.005
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Tail/Tail.005/Tail.004
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Tail/Tail.005/Tail.004/Tail.003
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Tail/Tail.005/Tail.004/Tail.003/Tail.002
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Tail/Tail.005/Tail.004/Tail.003/Tail.002/Tail.001
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L/Toe_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R/Toe_R
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: e5e34ae3fe67e8d46a68962c2c68c2a6, type: 2}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle Falling Up
+      takeName: Idle Falling Up
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Blaze
+        weight: 0
+      - path: Blaze The Tiger
+        weight: 1
+      - path: Blaze The Tiger/Root
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck/Head
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck/Head/Ear_L
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck/Head/Ear_R
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck/Head/Eye_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck/Head/Eye_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck/Head/Jaw
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L/Index_Intermediate_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L/Index_Intermediate_L/Index_Distal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L/Middle_Intermediate_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L/Middle_Intermediate_L/Middle_Distal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Pinky_Proximal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Pinky_Proximal_L/Pinky_Intermediate_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Pinky_Proximal_L/Pinky_Intermediate_L/Pinky_Distal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Ring_Proximal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Ring_Proximal_L/Ring_Intermediate_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Ring_Proximal_L/Ring_Intermediate_L/Ring_Distal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L/Thumb_Distal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Hand_Weapon_Socket_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R/index_Intermediate_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R/index_Intermediate_R/Index_Distal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R/Middle_Intermediate_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R/Middle_Intermediate_R/Middle_Distal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Pinky_Proximal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Pinky_Proximal_R/Pinky_Intermediate_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Pinky_Proximal_R/Pinky_Intermediate_R/Pinky_Distal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Ring_Proximal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Ring_Proximal_R/Ring_Intermediate_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Ring_Proximal_R/Ring_Intermediate_R/Ring_Distal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R/Thumb_Distal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Tail
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Tail/Tail.005
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Tail/Tail.005/Tail.004
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Tail/Tail.005/Tail.004/Tail.003
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Tail/Tail.005/Tail.004/Tail.003/Tail.002
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Tail/Tail.005/Tail.004/Tail.003/Tail.002/Tail.001
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L/Toe_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R/Toe_R
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: e5e34ae3fe67e8d46a68962c2c68c2a6, type: 2}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Sliding 45
+      takeName: Sliding 45
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Blaze
+        weight: 0
+      - path: Blaze The Tiger
+        weight: 1
+      - path: Blaze The Tiger/Root
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck/Head
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck/Head/Ear_L
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck/Head/Ear_R
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck/Head/Eye_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck/Head/Eye_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Neck/Head/Jaw
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L/Index_Intermediate_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Index_Proximal_L/Index_Intermediate_L/Index_Distal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L/Middle_Intermediate_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Middle_Proximal_L/Middle_Intermediate_L/Middle_Distal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Pinky_Proximal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Pinky_Proximal_L/Pinky_Intermediate_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Pinky_Proximal_L/Pinky_Intermediate_L/Pinky_Distal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Ring_Proximal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Ring_Proximal_L/Ring_Intermediate_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Ring_Proximal_L/Ring_Intermediate_L/Ring_Distal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_L/Upper_Arm_L/Lower_Arm_L/Hand_L/Thumb_Proximal_L/Thumb_Intermediate_L/Thumb_Distal_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Hand_Weapon_Socket_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R/index_Intermediate_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Index_Proximal_R/index_Intermediate_R/Index_Distal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R/Middle_Intermediate_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Middle_Proximal_R/Middle_Intermediate_R/Middle_Distal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Pinky_Proximal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Pinky_Proximal_R/Pinky_Intermediate_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Pinky_Proximal_R/Pinky_Intermediate_R/Pinky_Distal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Ring_Proximal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Ring_Proximal_R/Ring_Intermediate_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Ring_Proximal_R/Ring_Intermediate_R/Ring_Distal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Spine/Chest/Upper_Chest/Shoulder_R/Upper_Arm_R/Lower_Arm_R/Hand_R/Thumb_Proximal_R/Thumb_Intermediate_R/Thumb_Distal_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Tail
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Tail/Tail.005
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Tail/Tail.005/Tail.004
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Tail/Tail.005/Tail.004/Tail.003
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Tail/Tail.005/Tail.004/Tail.003/Tail.002
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Tail/Tail.005/Tail.004/Tail.003/Tail.002/Tail.001
+        weight: 0
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_L/Lower_Leg_L/Foot_L/Toe_L
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R
+        weight: 1
+      - path: Blaze The Tiger/Root/Hips/Upper_Leg_R/Lower_Leg_R/Foot_R/Toe_R
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: e5e34ae3fe67e8d46a68962c2c68c2a6, type: 2}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Upper_Leg_L
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Upper_Leg_R
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lower_Leg_L
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lower_Leg_R
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Foot_L
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Foot_R
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Chest
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shoulder_L
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shoulder_R
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Upper_Arm_L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Upper_Arm_R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lower_Arm_L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Lower_Arm_R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Hand_L
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Hand_R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Toe_L
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Toe_R
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Eye_L
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Eye_R
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Jaw
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Thumb_Proximal_L
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Thumb_Intermediate_L
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Thumb_Distal_L
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Index_Proximal_L
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Index_Intermediate_L
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Index_Distal_L
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Middle_Proximal_L
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Middle_Intermediate_L
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Middle_Distal_L
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ring_Proximal_L
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ring_Intermediate_L
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ring_Distal_L
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pinky_Proximal_L
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pinky_Intermediate_L
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pinky_Distal_L
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Thumb_Proximal_R
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Thumb_Intermediate_R
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Thumb_Distal_R
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Index_Proximal_R
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: index_Intermediate_R
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Index_Distal_R
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Middle_Proximal_R
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Middle_Intermediate_R
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Middle_Distal_R
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ring_Proximal_R
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ring_Intermediate_R
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ring_Distal_R
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pinky_Proximal_R
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pinky_Intermediate_R
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Pinky_Distal_R
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Upper_Chest
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: BlazeTheTiger_V2 (Master)(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Blaze
+      parentName: BlazeTheTiger_V2 (Master)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Blaze The Tiger
+      parentName: BlazeTheTiger_V2 (Master)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Root
+      parentName: Blaze The Tiger
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hips
+      parentName: Root
+      position: {x: -0.000000003833494, y: 0.82671314, z: -0.04593599}
+      rotation: {x: -0.0109446645, y: 0.00000010330609, z: -0.00000001720075, w: 0.9999401}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Spine
+      parentName: Hips
+      position: {x: 1.3322676e-15, y: 0.153912, z: -0.0000000018626449}
+      rotation: {x: 0.0007799233, y: 0.00000014438888, z: 0.000000025990783, w: 0.9999997}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Chest
+      parentName: Spine
+      position: {x: 1.110223e-15, y: 0.18585648, z: -0.0000000018626465}
+      rotation: {x: -0.0015060616, y: -0.00000025128304, z: -0.000000013517147, w: 0.99999887}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Upper_Chest
+      parentName: Chest
+      position: {x: 6.3837824e-16, y: 0.17659248, z: 0.0000000018626451}
+      rotation: {x: -0.07649072, y: 0.00000011900204, z: -0.000000008437216, w: 0.9970703}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Neck
+      parentName: Upper_Chest
+      position: {x: 1.2212453e-15, y: 0.18781915, z: 0.000000022351742}
+      rotation: {x: 0.28911623, y: -0.0000001105274, z: 0.000000036819714, w: 0.95729405}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head
+      parentName: Neck
+      position: {x: -1.0587912e-22, y: 0.058228128, z: 0.000000018626451}
+      rotation: {x: -0.20219247, y: -5.5133846e-16, z: 1.1551953e-16, w: 0.9793458}
+      scale: {x: 1, y: 1.0000001, z: 0.9999999}
+    - name: Jaw
+      parentName: Head
+      position: {x: -0.0000000036711933, y: 0.02586311, z: 0.13445681}
+      rotation: {x: -0.00000064000113, y: 0.5989757, z: 0.8007672, w: -0.0000005190063}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: Ear_L
+      parentName: Head
+      position: {x: -0.15960106, y: 0.33213228, z: -0.05390336}
+      rotation: {x: 0.0217319, y: 0.64357835, z: 0.43697017, w: 0.62800616}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+    - name: Eye_L
+      parentName: Head
+      position: {x: -0.08818213, y: 0.19340608, z: 0.14597136}
+      rotation: {x: -0.000000030911757, y: 0.70717865, z: 0.7070349, w: -0.000000030905476}
+      scale: {x: 1, y: 0.99999887, z: 0.99999976}
+    - name: Ear_R
+      parentName: Head
+      position: {x: 0.15960106, y: 0.33213228, z: -0.053903364}
+      rotation: {x: 0.0217319, y: -0.64357835, z: -0.43697017, w: 0.62800616}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+    - name: Eye_R
+      parentName: Head
+      position: {x: 0.08818213, y: 0.19340608, z: 0.14597136}
+      rotation: {x: -0.000000030911757, y: 0.70717865, z: 0.7070349, w: -0.000000030905476}
+      scale: {x: 1, y: 0.99999887, z: 0.99999976}
+    - name: Shoulder_L
+      parentName: Upper_Chest
+      position: {x: -0.08530463, y: -0.00010762792, z: 0.022010894}
+      rotation: {x: -0.44147512, y: 0.45997125, z: 0.42082304, w: 0.6453171}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Upper_Arm_L
+      parentName: Shoulder_L
+      position: {x: 0.000000016763806, y: 0.2238755, z: -0.00000003632158}
+      rotation: {x: -0.14562613, y: -0.007961259, z: 0.09342701, w: 0.98488635}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Lower_Arm_L
+      parentName: Upper_Arm_L
+      position: {x: -0.0000000044237822, y: 0.23710763, z: 0.000000019557774}
+      rotation: {x: 0.041195635, y: -0.0005889461, z: 0.05873146, w: 0.9974233}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Hand_L
+      parentName: Lower_Arm_L
+      position: {x: -0.000000013038516, y: 0.25814173, z: -0.00000018399442}
+      rotation: {x: 0.0020265302, y: -0.0048962054, z: -0.051286094, w: 0.9986699}
+      scale: {x: 1.0000001, y: 0.99999976, z: 0.9999999}
+    - name: Index_Proximal_L
+      parentName: Hand_L
+      position: {x: -0.09871239, y: 0.19613689, z: -0.00053767}
+      rotation: {x: 0.018381165, y: -0.0021684498, z: 0.055307664, w: 0.9982978}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Index_Intermediate_L
+      parentName: Index_Proximal_L
+      position: {x: 8.731149e-10, y: 0.078804106, z: -0.00000012562668}
+      rotation: {x: -0.011865748, y: 0.00064070144, z: -0.008260179, w: 0.9998953}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: Index_Distal_L
+      parentName: Index_Intermediate_L
+      position: {x: -0.0000000022992026, y: 0.061417345, z: -0.0000000110812834}
+      rotation: {x: -0.039202154, y: -0.0010791963, z: 0.0066500767, w: 0.9992086}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Middle_Proximal_L
+      parentName: Hand_L
+      position: {x: -0.04315206, y: 0.2061113, z: 0.0000008918772}
+      rotation: {x: 0.0151725225, y: -0.0015946437, z: 0.02225784, w: 0.9996359}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.99999994}
+    - name: Middle_Intermediate_L
+      parentName: Middle_Proximal_L
+      position: {x: -0.0000000013969839, y: 0.07826258, z: -0.00000004751928}
+      rotation: {x: -0.011273468, y: -0.0011070952, z: -0.014548393, w: 0.99983}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Middle_Distal_L
+      parentName: Middle_Intermediate_L
+      position: {x: 0.0000000013969839, y: 0.06328978, z: 0.000000056868885}
+      rotation: {x: -0.03525392, y: -0.0048448783, z: 0.0073360726, w: 0.99933976}
+      scale: {x: 0.99999994, y: 1, z: 0.9999998}
+    - name: Ring_Proximal_L
+      parentName: Hand_L
+      position: {x: 0.016014509, y: 0.20295525, z: -0.00015869267}
+      rotation: {x: 0.010773772, y: -0.0013830661, z: 0.023394203, w: 0.9996673}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Ring_Intermediate_L
+      parentName: Ring_Proximal_L
+      position: {x: -0.000000013504177, y: 0.07547628, z: -0.00000001945591}
+      rotation: {x: -0.012316888, y: -0.0012420213, z: -0.0023079545, w: 0.9999207}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.99999994}
+    - name: Ring_Distal_L
+      parentName: Ring_Intermediate_L
+      position: {x: -9.313226e-10, y: 0.059011713, z: -0.00000019971048}
+      rotation: {x: -0.039614614, y: -0.0074304654, z: 0.0032972298, w: 0.999182}
+      scale: {x: 0.9999999, y: 0.99999976, z: 0.9999999}
+    - name: Pinky_Proximal_L
+      parentName: Hand_L
+      position: {x: 0.06997405, y: 0.18351516, z: -0.0011274425}
+      rotation: {x: 0.0052662394, y: 0.00021940238, z: 0.028234193, w: 0.9995875}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Pinky_Intermediate_L
+      parentName: Pinky_Proximal_L
+      position: {x: 0.00000005029142, y: 0.067667276, z: 0.00000016228296}
+      rotation: {x: -0.015090778, y: -0.0032149563, z: 0.013312865, w: 0.99979234}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Pinky_Distal_L
+      parentName: Pinky_Intermediate_L
+      position: {x: -0.000000020489097, y: 0.04963259, z: -0.00000010680378}
+      rotation: {x: -0.04667869, y: -0.014470884, z: -0.0044537564, w: 0.9987952}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: Thumb_Proximal_L
+      parentName: Hand_L
+      position: {x: -0.08150344, y: 0.059884965, z: -0.019072209}
+      rotation: {x: 0.13386483, y: -0.40753087, z: 0.45227513, w: 0.7819502}
+      scale: {x: 0.99999994, y: 0.9999998, z: 0.9999999}
+    - name: Thumb_Intermediate_L
+      parentName: Thumb_Proximal_L
+      position: {x: 0.00000017415732, y: 0.06868675, z: 0.000000059604645}
+      rotation: {x: -0.035740774, y: -0.036949363, z: 0.0031596343, w: 0.9986728}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Thumb_Distal_L
+      parentName: Thumb_Intermediate_L
+      position: {x: -0.000000074505806, y: 0.06815905, z: 0.000000022351742}
+      rotation: {x: -0.07070907, y: 0.020839756, z: -0.0098684905, w: 0.99723047}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: Shoulder_R
+      parentName: Upper_Chest
+      position: {x: 0.08530462, y: -0.000107625405, z: 0.022010928}
+      rotation: {x: -0.44147512, y: -0.45997134, z: -0.42082313, w: 0.64531696}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.9999999}
+    - name: Upper_Arm_R
+      parentName: Shoulder_R
+      position: {x: -0.0000000037252903, y: 0.22387546, z: -0.00000014016405}
+      rotation: {x: -0.14562552, y: 0.00796114, z: -0.09342692, w: 0.9848864}
+      scale: {x: 0.99999964, y: 0.99999994, z: 0.9999997}
+    - name: Lower_Arm_R
+      parentName: Upper_Arm_R
+      position: {x: 0.000000007916242, y: 0.2371076, z: -0.000000074040145}
+      rotation: {x: 0.041195527, y: 0.00058890134, z: -0.05873181, w: 0.9974233}
+      scale: {x: 0.99999976, y: 1.0000002, z: 0.99999976}
+    - name: Hand_R
+      parentName: Lower_Arm_R
+      position: {x: 0.000000009313226, y: 0.25814173, z: 0.00000005273614}
+      rotation: {x: 0.0020261323, y: 0.0048963125, z: 0.051286727, w: 0.9986699}
+      scale: {x: 1.0000006, y: 0.99999905, z: 0.9999998}
+    - name: Index_Proximal_R
+      parentName: Hand_R
+      position: {x: 0.09871239, y: 0.19613697, z: -0.000537417}
+      rotation: {x: 0.018381175, y: 0.0021684505, z: -0.05530766, w: 0.9982978}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: index_Intermediate_R
+      parentName: Index_Proximal_R
+      position: {x: 0.000000003259629, y: 0.07880403, z: -0.00000014266698}
+      rotation: {x: -0.011862175, y: -0.0010742184, z: 0.008265318, w: 0.9998949}
+      scale: {x: 0.9999999, y: 1.0000001, z: 0.99999994}
+    - name: Index_Distal_R
+      parentName: index_Intermediate_R
+      position: {x: 0.000000002910383, y: 0.061417412, z: 0.000000017913408}
+      rotation: {x: -0.039205067, y: 0.0015124119, z: -0.006633092, w: 0.99920803}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Middle_Proximal_R
+      parentName: Hand_R
+      position: {x: 0.043152064, y: 0.2061114, z: 0.0000011496141}
+      rotation: {x: 0.015171928, y: 0.0015947237, z: -0.022258682, w: 0.9996359}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Middle_Intermediate_R
+      parentName: Middle_Proximal_R
+      position: {x: -0.000000002561137, y: 0.07826272, z: 0.00000007604103}
+      rotation: {x: -0.011273465, y: 0.0011070945, z: 0.014548399, w: 0.99983}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Middle_Distal_R
+      parentName: Middle_Intermediate_R
+      position: {x: 0.000000005122274, y: 0.063289836, z: -0.000000053973054}
+      rotation: {x: -0.03525387, y: 0.004844876, z: -0.0073360745, w: 0.99933976}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.9999998}
+    - name: Ring_Proximal_R
+      parentName: Hand_R
+      position: {x: -0.016014524, y: 0.20295535, z: -0.00015843382}
+      rotation: {x: 0.010774186, y: 0.0013830685, z: -0.023394719, w: 0.9996673}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Ring_Intermediate_R
+      parentName: Ring_Proximal_R
+      position: {x: 0.0000000013969839, y: 0.07547631, z: -0.000000030951924}
+      rotation: {x: -0.012316892, y: 0.0012420223, z: 0.0023079491, w: 0.9999207}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.9999999}
+    - name: Ring_Distal_R
+      parentName: Ring_Intermediate_R
+      position: {x: 0.000000009313226, y: 0.05901189, z: 0.000000059080776}
+      rotation: {x: -0.039614733, y: 0.00743047, z: -0.0032972177, w: 0.999182}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Pinky_Proximal_R
+      parentName: Hand_R
+      position: {x: -0.06997408, y: 0.18351528, z: -0.0011271826}
+      rotation: {x: 0.005267206, y: -0.00021964309, z: -0.028232103, w: 0.9995875}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Pinky_Intermediate_R
+      parentName: Pinky_Proximal_R
+      position: {x: 0.000000055879354, y: 0.067667365, z: 0.000000036350684}
+      rotation: {x: -0.015090813, y: 0.003214938, z: -0.0133129265, w: 0.99979234}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: Pinky_Distal_R
+      parentName: Pinky_Intermediate_R
+      position: {x: 0.000000035390258, y: 0.049632505, z: -0.00000015389014}
+      rotation: {x: -0.046678733, y: 0.014470881, z: 0.0044537536, w: 0.9987952}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.99999994}
+    - name: Thumb_Proximal_R
+      parentName: Hand_R
+      position: {x: 0.08150345, y: 0.059884936, z: -0.019071955}
+      rotation: {x: 0.13386595, y: 0.40753028, z: -0.45227423, w: 0.78195083}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Thumb_Intermediate_R
+      parentName: Thumb_Proximal_R
+      position: {x: 0.00000008381903, y: 0.06868687, z: 0.00000012293458}
+      rotation: {x: -0.035739295, y: 0.03694915, z: -0.0031628192, w: 0.99867284}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.9999998}
+    - name: Thumb_Distal_R
+      parentName: Thumb_Intermediate_R
+      position: {x: 0.00000013969839, y: 0.06815903, z: 0.000000014901161}
+      rotation: {x: -0.07070907, y: -0.02083976, z: 0.009868529, w: 0.99723047}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Hand_Weapon_Socket_R
+      parentName: Hand_R
+      position: {x: 0.000000010021665, y: 0.16637313, z: -0.06979984}
+      rotation: {x: 0.025935011, y: -0.00000012436341, z: 0.000000009467082, w: 0.99966365}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Tail
+      parentName: Hips
+      position: {x: 0.000000035293173, y: 0.09906416, z: -0.16200148}
+      rotation: {x: -0.69932544, y: -0.00000008521123, z: -0.0000000608857, w: 0.7148034}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Tail.005
+      parentName: Tail
+      position: {x: -5.2553312e-17, y: 0.14242251, z: 0.00000005369558}
+      rotation: {x: -0.000000008381902, y: 1.776357e-15, z: 1.4210855e-14, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tail.004
+      parentName: Tail.005
+      position: {x: -4.1028158e-22, y: 0.14242257, z: 0.000000059604645}
+      rotation: {x: 1.388553e-37, y: -3.1763736e-22, z: 2.97785e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tail.003
+      parentName: Tail.004
+      position: {x: -0, y: 0.14242266, z: 0.000000059604645}
+      rotation: {x: 0, y: 1.2621776e-29, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tail.002
+      parentName: Tail.003
+      position: {x: -0, y: 0.14242254, z: 0.000000059604645}
+      rotation: {x: 0, y: -1.504633e-36, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tail.001
+      parentName: Tail.002
+      position: {x: -0, y: 0.14242254, z: 0.000000059604645}
+      rotation: {x: 0, y: 1.8e-43, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Upper_Leg_L
+      parentName: Hips
+      position: {x: -0.12599592, y: -0.024985809, z: -0.027614007}
+      rotation: {x: -0.66154796, y: 0.091494806, z: 0.7442998, w: -0.0008900813}
+      scale: {x: 1.0000001, y: 0.9999998, z: 1.0000002}
+    - name: Lower_Leg_L
+      parentName: Upper_Leg_L
+      position: {x: -0.0000000037252903, y: 0.3187791, z: -0.00000001839362}
+      rotation: {x: -0.044871304, y: 0.05164056, z: -0.18947263, w: 0.9794999}
+      scale: {x: 1.0000004, y: 0.9999999, z: 0.9999999}
+    - name: Foot_L
+      parentName: Lower_Leg_L
+      position: {x: -0.0000000067520887, y: 0.30004433, z: -0.000000007930794}
+      rotation: {x: 0.37355107, y: -0.61673915, z: 0.31260133, w: 0.618363}
+      scale: {x: 1.0000002, y: 1.0000005, z: 0.9999992}
+    - name: Toe_L
+      parentName: Foot_L
+      position: {x: -0.00000002826523, y: 0.24868914, z: 0.000000021894877}
+      rotation: {x: 0.37401542, y: 0.058420915, z: -0.041059308, w: 0.92466944}
+      scale: {x: 0.9999999, y: 1.0000004, z: 0.99999934}
+    - name: Upper_Leg_R
+      parentName: Hips
+      position: {x: 0.12599598, y: -0.0249858, z: -0.027613947}
+      rotation: {x: 0.66154665, y: 0.09149624, z: 0.7443009, w: 0.0008917797}
+      scale: {x: 1.0000031, y: 0.9999998, z: 1.0000035}
+    - name: Lower_Leg_R
+      parentName: Upper_Leg_R
+      position: {x: 0.000000016763806, y: 0.31877917, z: 0.000000040745363}
+      rotation: {x: -0.044871528, y: -0.051640283, z: 0.18947475, w: 0.97949946}
+      scale: {x: 1.0000002, y: 0.9999993, z: 1.0000008}
+    - name: Foot_R
+      parentName: Lower_Leg_R
+      position: {x: -0.000000023283064, y: 0.30004412, z: -0.000000015672413}
+      rotation: {x: 0.3735504, y: 0.61673737, z: -0.3126019, w: 0.61836505}
+      scale: {x: 1.0000015, y: 1.0000049, z: 0.9999966}
+    - name: Toe_R
+      parentName: Foot_R
+      position: {x: -0.00000003227875, y: 0.24868912, z: -0.0000000025125928}
+      rotation: {x: 0.37401956, y: -0.058421753, z: 0.041063614, w: 0.92466754}
+      scale: {x: 0.99999857, y: 1.0000064, z: 0.9999953}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: b1d4991848cd5584e8b9559e3805f8d4,
+    type: 3}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
