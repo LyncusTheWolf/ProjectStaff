@@ -152,16 +152,12 @@ namespace Basic{
             //Reset the inputs each frame before calculating new inputs
             currentInputs.moveDir = Vector3.zero;
 
-            //Calculate the current copter value and pass it to the animator
-            //copterPower -= Time.deltaTime;
-            //charAnimator.Anim.SetFloat("CopterPower", copterPower);
-
             //Read the current inputs of the horizontal and vertical axis
             float horizontal = Input.GetAxis("Horizontal");
             float vertical = Input.GetAxis("Vertical");
 
             //Calculate some basic velocity inputs based upon the vertical and horizontal values
-            if (Mathf.Abs(horizontal + vertical) > INPUT_DEAD_ZONE) {
+            if (Mathf.Abs(horizontal) > INPUT_DEAD_ZONE || Mathf.Abs(vertical) > INPUT_DEAD_ZONE) {
                 currentInputs.moveDir = GetCameraRelative(horizontal, vertical, out currentInputs.currentDirection);
                 currentInputs.inputMagnitude = currentInputs.moveDir.magnitude;
                 if (isSliding) {
@@ -242,25 +238,6 @@ namespace Basic{
                 if (Input.GetButtonDown("A Button") && isGrounded) {
                     currentInputs.jumpTrigger = true;
                 }
-
-                //Reset the copter power since the motor is on the ground
-                //copterPower = 0.0f;
-            } else {
-                
-                //If the copter input button is pressed and the player can currently use the copter maneuver then initialize the action and push
-                //any relevant values to the animator
-                /*if (Input.GetButtonDown("Y Button")) {
-                    if (currentInputs.inCopter == false && player.UseStamina(copterInitialStaminaCost)) {
-                        charAnimator.Anim.SetFloat("CopterPower", copterPower);
-                        charAnimator.PushCopter();
-                        copterPower = 1.5f;
-                        currentInputs.inCopter = true;
-                        currentInputs.isEquipped = true;
-                        Vector3 copterVel = rigidBody.velocity;
-                        copterVel.y = copterUpdraftForce;
-                        rigidBody.velocity = copterVel;
-                    }
-                }*/
             }
 
             foreach(Skill sk in skills) {
@@ -311,12 +288,6 @@ namespace Basic{
             if(currentSkill != null) {
                 currentSkill.InUse(charAnimator, rigidBody);
             }
-
-            /*if (Input.GetButtonDown("Y Button")) {
-                if (currentInputs.inCopter == true) {
-                    copterPower += 0.5f;
-                }
-            }*/
 
             currentInputs.currentDirection = 0.0f;
         }
